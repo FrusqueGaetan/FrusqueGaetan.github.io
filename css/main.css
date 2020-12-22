@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-size: 1.5em;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -42,7 +43,3 @@ ul.posts li {
     list-style: none;
 }
 
-.img-left{
-    float: left;
-    margin-right: 1em;
-}

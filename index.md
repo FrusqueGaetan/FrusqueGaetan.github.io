@@ -2,12 +2,11 @@
 layout: default
 title: Frusque Gaëtan
 ---
-## Welcome to my homepage, I am gaëtan Frusque !
+# Welcome, I am gaëtan Frusque !
 
 <br/>
 
 <img src="./Support/picture3.jpg" ALIGN="RIGHT" width="200" />
-
 My research interests are centred around multivariate signal processing and machine learning tools for time series analysis. I am also very interested by sparse optimisation. 
 
 I recently obtained a PhD at LIP, ENS Lyon entitled “inferences and decompositions of dynamical graphs with application to neuroscience”. The aim of my work was to create innovative data visualization tools to understand how epilepsy propagates in the brain. I had to work with datasets in the form of multivariate time series and graphs evolving through time. 
