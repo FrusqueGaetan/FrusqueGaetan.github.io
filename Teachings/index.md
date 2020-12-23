@@ -19,3 +19,5 @@ title: Frusque Gaëtan
 * **Speech processings**
 
 ## Chonology
+
+to complete
