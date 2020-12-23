@@ -14,10 +14,6 @@ Frontiers in Neurology, 09-2020
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 IEEE transaction T-SIPN, 03-2020
 
-
-
-
-
 ## International conferences 
 
 * **Regularized partial phase synchrony index applied to dynamical functional connectivity estimation** [[pdf]](./Support/Frusque.icassp2020.pdf) [[hal]](https://hal.inria.fr/hal-02459821/document)\
@@ -31,6 +27,7 @@ Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 Wavelets and Sparsity XVIII, 09-2019
 
 ## French conferences
+
 * **Réduction de dimension tensorielle parcimonieuse:  Application au clustering de connectivité fonctionnelle** [[pdf]](./Support/Gretsi2019-Frusque.pdf) [[hal]](https://hal.inria.fr/hal-02154888/file/Gretsi2019-Frusque.pdf) \
 27ème édition du colloque GRETSI, 09-2019
 
