@@ -3,7 +3,7 @@ layout: default
 title: Frusque Gaëtan
 ---
 
-# Teachings at CPE Lyon
+## Teachings at CPE Lyon
 
 ## 2019-2020
 
@@ -60,4 +60,3 @@ title: Frusque Gaëtan
 * **Speech processings**: Responsable Nicole Gache (M2 lelvel).
   * speech coding
 
-<br/>
