@@ -2,22 +2,58 @@
 layout: default
 title: Frusque Gaëtan
 ---
-# Teachings
+# Teachings at CPE Lyon
 
-## Course description
+## 2019-2020
 
-* **Random signal processing**
+* **Optimisation**: Responsable [Marion Foare](http://perso.ens-lyon.fr/marion.foare/) (M1 level).
+  * Convex optimisation
+  * Nondifferentiable optimisation (proximity operator).
+  * Legendre-Fenchelet Rockafellar duality
+  * Constrained optimisation
 
-* **Optimisation**
+* **Random signal processing**: Responsable [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (M1 lelvel).
+  * Probability density estimation
+  * Bias–variance tradeoff
+  * Quadratic detection
+  * Optimal linear filtering
 
-* **Digital signal processing**
+## 2018-2019
 
-* **Data mining**
+* **Optimisation**: Responsable [Marion Foare](http://perso.ens-lyon.fr/marion.foare/) (M1 level).
+  * Convex optimisation
+  * Nondifferentiable optimisation (proximity operator).
+  * Legendre-Fenchelet Rockafellar duality
+  * Constrained optimisation
 
-* **Signals and linear systems**
+* **Data mining**: Responsable [John Samuel](https://johnsamuel.info/fr/index.html) (M1 level).
+  * Introduction to python
+  * Clustering
+  * Classification (SVM, perceptron)
+  * Neural network with Tensorflow
 
-* **Speech processings**
+* **Random signal processing**: Responsable [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (M1 lelvel).
+  * Probability density estimation
+  * Bias–variance tradeoff
+  * Quadratic detection
+  * Optimal linear filtering
 
-## Chonology
+* **Signals and linear systems**: Responsable [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (L3 lelvel).
+  * Fourier transform
+  * Sampling
+  * Correlation
+## 2017-2018
 
-to complete
+* **Random signal processing**: Responsable [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (M1 lelvel).
+  * Probability density estimation
+  * Bias–variance tradeoff
+  * Quadratic detection
+  * Optimal linear filtering
+
+* **Digital signal processing**: Responsable Nicole Gache (L3 lelvel).
+  * Discrete Fourier transform & Fast Fourier trasform
+  * Finite impulse response (FIR) filter
+  * Infinite impulse response (IIR) filter
+
+* **Speech processings**: Responsable Nicole Gache (M2 lelvel).
+  * speech coding
