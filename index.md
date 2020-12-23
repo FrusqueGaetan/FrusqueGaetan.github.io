@@ -13,6 +13,6 @@ I recently obtained a PhD at LIP, ENS Lyon entitled “inferences and decomposit
 
 I am currently looking for a new position. I want to invest my competences in projects related to signal processing and machine learning, work in a team and acquire new knowledge.
 
-My CV is available [here](./Support/cvcv.pdf)
+My CV is available [here](./Support/cvcv.pdf).
 
 <br/>
