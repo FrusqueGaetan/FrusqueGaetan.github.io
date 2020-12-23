@@ -19,9 +19,11 @@ IEEE transaction T-SIPN, 03-2020
 * **Regularized partial phase synchrony index applied to dynamical functional connectivity estimation** [[pdf]](./Support/Frusque.icassp2020.pdf) [[hal]](https://hal.inria.fr/hal-02459821/document)\
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 ICASSP 2020, 01-2020
+
 * **Temporarily activated patterns for multi-trial functional connectivity data** [[pdf]](./Support/ASPAI.pdf) [[Proceedings]](https://www.sensorsportal.com/ASPAI_2020/ASPAI_2020_Conference_Proceedings.pdf)
 Gaëtan Frusque, Pierre Borgnat, Paulo Gonçalves \
 ASPAI'2020, 02-2020
+
 * **Pattern extraction in multi-trial dynamical graphs of functional connectivities** [[pdf]](./Support/spie.pdf) [[hal]](https://hal.archives-ouvertes.fr/hal-02399385/file/SPIE.pdf) \
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 Wavelets and Sparsity XVIII, 09-2019
