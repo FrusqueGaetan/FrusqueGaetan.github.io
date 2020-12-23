@@ -2,8 +2,7 @@
 layout: default
 title: Frusque Gaëtan
 ---
-
-## Teachings at CPE Lyon
+# Teachings at CPE Lyon
 
 ## 2019-2020
 
