@@ -14,7 +14,7 @@ Frontiers in Neurology, 09-2020
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 IEEE transaction T-SIPN, 03-2020
 
-## International conferences 
+## International conferences
 
 * **Regularized partial phase synchrony index applied to dynamical functional connectivity estimation** [[pdf]](../Support/Frusque.icassp2020.pdf) [[hal]](https://hal.inria.fr/hal-02459821/document)\
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves\
