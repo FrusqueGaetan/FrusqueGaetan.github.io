@@ -2,6 +2,7 @@
 layout: default
 title: Frusque Gaëtan
 ---
+
 # Publications
 
 ## International journals

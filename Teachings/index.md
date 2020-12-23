@@ -2,6 +2,7 @@
 layout: default
 title: Frusque Gaëtan
 ---
+
 # Teachings at CPE Lyon
 
 ## 2019-2020
@@ -42,6 +43,7 @@ title: Frusque Gaëtan
   * Fourier transform
   * Sampling
   * Correlation
+
 ## 2017-2018
 
 * **Random signal processing**: Responsable [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (M1 lelvel).
@@ -57,3 +59,5 @@ title: Frusque Gaëtan
 
 * **Speech processings**: Responsable Nicole Gache (M2 lelvel).
   * speech coding
+
+<br/>
