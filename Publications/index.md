@@ -38,3 +38,25 @@ Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 
 # Talks #
 
+* **Extraction of functional dynamic networks describing patient's epileptic seizures** \
+CCS2020, online, 12-2020.
+* **Time Varying Graphical Lasso on Phase
+Synchronizing Time Series** \
+Seminar Inria Montbonnot, Grenoble (France), 10-2019
+* **Signal processing over graphs, with a focus on neuroscience data** \
+GdR ISIS conference day, Paris (France), 09-2019 
+* **Multiplex network inference with functional connectivity** \
+Neuroinformatics and computational neuroscience day at CRNL, Lyon (France), 07-2019
+* **Dynamical Networks decomposition using HOSVD and Clustering** \
+Seminar Telecom Bretagne, Brest (France), 07-2018
+* **New tensor methods and applications** \
+GdR ISIS conference day , Paris (France), 06-2019
+* **Help for the visual analysis of connectivity patterns in time and space common to the various seizures recorded in a patient via iEEG** \
+21st French Epilepsy Days (JFE), Lyon (France), 10-2018 
+* **Decomposition of functional Connectivity Dynamical Networks using HOSVD and Clustering** \
+GraphSIP, Aussois (France), 07-2018
+* **Classification of functionnal connectivity measures from multi-trial dynamical graphs** \
+3rd Graph Signal Processing Workshop, GSP’18, EPFL (Switzerland) - 06-2018
+* **Decomposition of dynamic networks via
+Non-Negative Matrix Factorization** \
+Neuroinformatics and computational neuroscience day at CRNL, Lyon (France), 11-2017
