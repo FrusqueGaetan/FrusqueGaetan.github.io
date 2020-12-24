@@ -2,7 +2,7 @@
 layout: default
 title: Frusque Gaëtan
 ---
-# Welcome, I am gaëtan Frusque !
+# Welcome, I am Gaëtan Frusque !
 
 <img src="./Support/picture3.jpg" ALIGN="RIGHT" width="200"/>
 My research interests are centred around multivariate signal processing and machine learning tools for time series analysis. I am also very interested by sparse optimisation.
