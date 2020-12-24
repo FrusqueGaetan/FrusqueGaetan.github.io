@@ -12,8 +12,6 @@ title: Frusque Gaëtan
   * Legendre-Fenchelet Rockafellar duality
   * Constrained optimisation
 
-<br/>
-
 * **Random signal processing**: Responsible [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (M1 lelvel).
   * Probability density estimation
   * Bias–variance tradeoff
@@ -28,23 +26,17 @@ title: Frusque Gaëtan
   * Legendre-Fenchelet Rockafellar duality
   * Constrained optimisation
 
-<br/>
-
 * **Data mining**: Responsible [John Samuel](https://johnsamuel.info/fr/index.html) (M1 level).
   * Introduction to python
   * Clustering
   * Classification (SVM, perceptron)
   * Neural network with Tensorflow
 
-<br/>
-
 * **Random signal processing**: Responsible [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (M1 lelvel).
   * Probability density estimation
   * Bias–variance tradeoff
   * Quadratic detection
   * Optimal linear filtering
-
-<br/>
 
 * **Signals and linear systems**: Responsible [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) (L3 lelvel).
   * Fourier transform
@@ -59,15 +51,10 @@ title: Frusque Gaëtan
   * Quadratic detection
   * Optimal linear filtering
 
-<br/>
-
 * **Digital signal processing**: Responsible Nicole Gache (L3 lelvel).
   * Discrete Fourier transform & Fast Fourier trasform
   * Finite impulse response (FIR) filter
   * Infinite impulse response (IIR) filter
 
-<br/>
-
 * **Speech processings**: Responsible Nicole Gache (M2 lelvel).
   * speech coding
-

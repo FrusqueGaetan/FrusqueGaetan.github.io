@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-size: 16px;
+    font-size: 20px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -25,7 +25,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
