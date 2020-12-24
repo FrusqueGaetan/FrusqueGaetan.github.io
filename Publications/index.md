@@ -2,7 +2,7 @@
 layout: default
 title: Frusque Gaëtan
 ---
-# Publications a #
+# Publications #
 
 ## International journals ##
 
@@ -33,8 +33,6 @@ Wavelets and Sparsity XVIII, 09-2019
 * **Réduction de dimension tensorielle parcimonieuse:  Application au clustering de connectivité fonctionnelle** [[pdf]](../Support/Gretsi2019-Frusque.pdf) [[hal]](https://hal.inria.fr/hal-02154888/file/Gretsi2019-Frusque.pdf) \
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 27ème édition du colloque GRETSI, 09-2019
-
-<br/>
 
 # Talks #
 
