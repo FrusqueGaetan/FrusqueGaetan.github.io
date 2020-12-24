@@ -28,7 +28,7 @@ ASPAI'2020, 02-2020
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 Wavelets and Sparsity XVIII, 09-2019
 
-## French conferences ##
+## French conference ##
 
 * **Réduction de dimension tensorielle parcimonieuse:  Application au clustering de connectivité fonctionnelle** [[pdf]](../Support/Gretsi2019-Frusque.pdf) [[hal]](https://hal.inria.fr/hal-02154888/file/Gretsi2019-Frusque.pdf) \
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
