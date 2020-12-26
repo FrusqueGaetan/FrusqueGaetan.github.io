@@ -58,3 +58,5 @@ title: Frusque Gaëtan
 
 * **Speech processings**: Contact Nicole Gache (M2 level).
   * speech coding
+
+<br/>
