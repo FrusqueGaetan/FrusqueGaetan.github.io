@@ -17,7 +17,7 @@ ICASSP 2020, 01-2020
 
 -----
 
-The matlab code to convert a list of N pairwise phase synchrony matrices {$**R**^{(1)},**R**^{(2)}, ...,**R**^{(N)}$} (or covariance matrices) into a list of regularised precision matrices {$\Omega^{(1)},\Omega^{(2)}, ...,\Omega^{(N)}$} minimising the criteria (8) with ADMM is given [[here]](../Support/rpPLV_ADMM.m)
+The matlab code to convert a list of N pairwise phase synchrony matrices {$$**R**^{(1)},**R**^{(2)}, ...,**R**^{(N)}$$} (or covariance matrices) into a list of regularised precision matrices {$$\Omega^{(1)},\Omega^{(2)}, ...,\Omega^{(N)}$$} minimising the criteria (8) with ADMM is given [[here]](../Support/rpPLV_ADMM.m)
 
 An example of partial and regualrised phase locking value inference is given [[here]](../Support/Main_rpPLV_ADMM.m)
 
