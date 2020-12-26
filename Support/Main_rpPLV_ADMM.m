@@ -6,7 +6,7 @@ Pmin=0.1;
 Ti=500;
 T = zeros(3,Ti,90);
 
-config=[ones(1,30),2*ones(1,30),3*ones(1,30)];%Les trois états de graph 1-30, 30-60, 60-90
+config=[ones(1,30),2*ones(1,30),3*ones(1,30)];%Les trois ï¿½tats de graph 1-30, 30-60, 60-90
 
 for i =1:size(T,3)
 
@@ -38,7 +38,7 @@ end
 
 
 
-%Compute pairwise PLV matrix
+%Compute pairwise synchrony matrix {R^(1), R^(2), ..., R^(N)}
 S = size(T);
 P = zeros(S(1),S(1),S(3));
 
@@ -54,19 +54,17 @@ for i =1:size(T,3)
 end
 
 
-%Use rPlV_ADMM
+%Use rpPlV_ADMM to compute precision matrices {Omega^(1), Omega^(2), ..., Omega^(N)}
 Mat = rpPLV_ADMM(P,0.1,0.5);%%%%% <-------
 
 Result=[];
-m  = (1:size(Mat(:,:,1),1)).' >= (1:size(Mat(:,:,1),2));
+Underdiag  = (1:size(Mat(:,:,1),1)).' > (1:size(Mat(:,:,1),2));%Under diagonal elements selection
 for i =1:size(T,3)
    A =  abs(Mat(:,:,i));
    B = diag(diag(A).^(-1/2));
    M = B*A*B;  %Normalize
-   M2=M(m);
-   Result(:,i) = M2([2,3,5]);%(select upper diagonal elements)
+   Result(:,i) =M(Underdiag);%(select upper diagonal elements)
 end
-%GetUnderDiag 
 
 
 
