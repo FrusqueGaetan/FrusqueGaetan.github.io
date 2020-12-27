@@ -2,17 +2,30 @@
 layout: default
 title: Frusque Gaëtan
 ---
-# Code from my publications
+# Codes from my publications
 
 ## Brain-wide Time-varying Network Decomposition (BTND) ##
+
+Codes from the article : \
+ **Semi-automatic extraction of functional dynamic networks describing patient's epileptic seizures** [[pdf]](../Support/fneur-11-579725.pdf) [frontiers]](https://www.frontiersin.org/articles/10.3389/fneur.2020.579725/full)\
+Gaëtan Frusque, Pierre Borgnat, Paulo Gonçalves, Julien Jung, 
+Frontiers in Neurology, 09-2020
+
+-----
+
+Here
+
+-----
+
+
 
 ## Higher Order Sparse Mode Reduction (HOSMR) ##
 
 ## Partial and Regularised Phase Locking Value ##
 
-Codes frome the article : \
+Codes from the article : \
  **Regularized partial phase synchrony index applied to dynamical functional connectivity estimation** [[pdf]](../Support/Frusque.icassp2020.pdf) [[hal]](https://hal.inria.fr/hal-02459821/document)\
-Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves\
+Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves, 
 ICASSP 2020, 01-2020
 
 -----
