@@ -6,7 +6,7 @@ title: Frusque Gaëtan
 
 ## International journals ##
 
-* **Semi-automatic extraction of functional dynamic networks describing patient's epileptic seizures** [[pdf]](../Support/fneur-11-579725.pdf) [frontiers]](https://www.frontiersin.org/articles/10.3389/fneur.2020.579725/full) [[Code]](../Code)\
+* **Semi-automatic extraction of functional dynamic networks describing patient's epileptic seizures** [[pdf]](../Support/fneur-11-579725.pdf) [[frontiers]](https://www.frontiersin.org/articles/10.3389/fneur.2020.579725/full) [[Code]](../Code)\
 Gaëtan Frusque, Pierre Borgnat, Paulo Gonçalves, Julien Jung \
 Frontiers in Neurology, 09-2020
 
