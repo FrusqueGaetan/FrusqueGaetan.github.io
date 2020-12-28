@@ -25,6 +25,7 @@ Codes from the article : \
 **Multiplex network inference with sparse tensor decomposition for functional connectivity** [[pdf]](../Support/IEEE-T-SIPN.pdf) [[hal]](https://hal.inria.fr/hal-02531459/file/IEEE-T-SIPN.pdf) \
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves, 
 IEEE transaction T-SIPN, 03-2020
+
 -----
 
 Here: [FCTensDec](https://frusquegaetan.github.io/FCTensDec/)
