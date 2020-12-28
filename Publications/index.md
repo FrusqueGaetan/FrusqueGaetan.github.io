@@ -4,6 +4,7 @@ title: Frusque Gaëtan
 ---
 # Publications #
 
+Main collaborators:  [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/), [Pierre Borgnat](https://perso.ens-lyon.fr/pierre.borgnat/), [Julien Jung](https://www.researchgate.net/profile/Julien_Jung).
 ## International journals ##
 
 * **Semi-automatic extraction of functional dynamic networks describing patient's epileptic seizures** [[pdf]](../Support/fneur-11-579725.pdf) [[frontiers]](https://www.frontiersin.org/articles/10.3389/fneur.2020.579725/full) [[Code]](https://frusquegaetan.github.io/BTND/)\
