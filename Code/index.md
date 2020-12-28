@@ -13,13 +13,23 @@ Frontiers in Neurology, 09-2020
 
 -----
 
-[Here](https://frusquegaetan.github.io/BTND/)
+Here: [BTND](https://frusquegaetan.github.io/BTND/)
 
 -----
 
 
 
 ## Higher Order Sparse Mode Reduction (HOSMR) ##
+
+Codes from the article : \
+**Multiplex network inference with sparse tensor decomposition for functional connectivity** [[pdf]](../Support/IEEE-T-SIPN.pdf) [[hal]](https://hal.inria.fr/hal-02531459/file/IEEE-T-SIPN.pdf) \
+Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves, 
+IEEE transaction T-SIPN, 03-2020
+-----
+
+Here: [FCTensDec](https://frusquegaetan.github.io/FCTensDec/)
+
+-----
 
 ## Partial and Regularised Phase Locking Value ##
 
@@ -30,7 +40,7 @@ ICASSP 2020, 01-2020
 
 -----
 
-The matlab code to convert a list of N pairwise phase synchrony matrices {$$\mathbf{R}^{(1)},\mathbf{R}^{(2)}, ...,\mathbf{R}^{(N)}$$} (or covariance matrices) into a list of regularised precision matrices {$$\Omega^{(1)},\Omega^{(2)}, ...,\Omega^{(N)}$$} minimising the criteria (8) with ADMM is given [[here]](../Support/rpPLV_ADMM.m)
+The Matlab code to convert a list of N pairwise phase synchrony matrices {$$\mathbf{R}^{(1)},\mathbf{R}^{(2)}, ...,\mathbf{R}^{(N)}$$} (or covariance matrices) into a list of regularised precision matrices {$$\Omega^{(1)},\Omega^{(2)}, ...,\Omega^{(N)}$$} minimising the criteria (8) with ADMM is given [[here]](../Support/rpPLV_ADMM.m)
 
 An example of partial and regualrised phase locking values inference is provided [[here]](../Support/Main_rpPLV_ADMM.m)
 

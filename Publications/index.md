@@ -6,11 +6,11 @@ title: Frusque Gaëtan
 
 ## International journals ##
 
-* **Semi-automatic extraction of functional dynamic networks describing patient's epileptic seizures** [[pdf]](../Support/fneur-11-579725.pdf) [[frontiers]](https://www.frontiersin.org/articles/10.3389/fneur.2020.579725/full) [[Code]](../Code)\
+* **Semi-automatic extraction of functional dynamic networks describing patient's epileptic seizures** [[pdf]](../Support/fneur-11-579725.pdf) [[frontiers]](https://www.frontiersin.org/articles/10.3389/fneur.2020.579725/full) [[Code]](https://frusquegaetan.github.io/BTND/)\
 Gaëtan Frusque, Pierre Borgnat, Paulo Gonçalves, Julien Jung \
 Frontiers in Neurology, 09-2020
 
-* **Multiplex network inference with sparse tensor decomposition for functional connectivity** [[pdf]](../Support/IEEE-T-SIPN.pdf) [[hal]](https://hal.inria.fr/hal-02531459/file/IEEE-T-SIPN.pdf) \
+* **Multiplex network inference with sparse tensor decomposition for functional connectivity** [[pdf]](../Support/IEEE-T-SIPN.pdf) [[hal]](https://hal.inria.fr/hal-02531459/file/IEEE-T-SIPN.pdf)  [[Code]](https://frusquegaetan.github.io/FCTensDec/)\
 Gaëtan Frusque, Julien Jung, Pierre Borgnat, Paulo Gonçalves \
 IEEE transaction T-SIPN, 03-2020
 
